@@ -1,4 +1,4 @@
-# GalaxySuperResoulution
+# GalaxySuperResolution
 
 Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network Main target is to reconstruct a super-resolution image or high-resolution image by up-scaling low-resolution images such that texture detail in the reconstructed SR images is not lost.
 
@@ -13,10 +13,10 @@ I implemented the paper - [Photo-Realistic Single Image Super-Resolution Using a
 
 
 <table>
-
+    
 <tr>
-    <td><img height="250" src="https://github.com/iamsh4shank/ImageX/blob/main/screenshot/Screenshot%20from%202020-12-01%2002-15-02.png?raw=true"  /><br /><center><b>Low resolution Image</b></center>
-    <td><img height="250" src="https://github.com/iamsh4shank/ImageX/blob/main/screenshot/Screenshot%20from%202020-12-01%2002-15-09.png?raw=true" /><br /><center><b>LR 2 image</b></center></td><td><img height="250" src="https://github.com/iamsh4shank/ImageX/blob/main/screenshot/Screenshot%20from%202020-12-01%2002-14-55.png?raw=true" /><br /><center><b>HR  generated Image</b></center></td> 
+    <td><img height="250" src="https://i.imgur.com/d1dBZwr.png" /><br /><center><b>Low resolution Image</b></center>
+    <td><img height="250" src="https://i.imgur.com/lZxGYcQ.png" /><br /><center><b>Generate HR image</b></center></td>
     </tr>
 
 </table>
